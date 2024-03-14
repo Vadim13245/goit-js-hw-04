@@ -12,5 +12,6 @@ function calcAverageCalories(days) {
   
   
     return Math.round(averageCalories);
+    
   }
   
